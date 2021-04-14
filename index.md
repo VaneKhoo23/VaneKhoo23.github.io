@@ -3,8 +3,6 @@
 <html lang="en">
 
     <head>
-        <script data-ad-client="ca-pub-6065827047918428" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content ="width-device-width, initial-scale=1">
         <!--bootstrap-->
